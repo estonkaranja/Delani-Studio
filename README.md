@@ -10,7 +10,7 @@ Eston karanja the author is a Software develor  student in moringa school. His c
 
 ---
 ## link to the live site
-https://francismuk.github.io/ip3-delani/index.html.
+https://estonkaranja.github.io/Delani-Studio/index.html.
 
 ---
 ## Description
@@ -44,6 +44,6 @@ If you find any issues or bugs that have not been detected please contact me the
 
 ---
 ### License
-*This is a link to the license under which the app is to be used      https://www.gnu.org/licenses/gpl-3.0.en.html           Copyright (c) {2019} *
+*This is a link to the license under which the app is to be used Copyright (c) {2019} *
 
 ---
